@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Vector",
+        "base_damage": 20.0,
+        "stomach_damage": 20.0,
+        "limb_damage": 20.0,
+        "foot_damage": 18.0,
+        "range_meters": 15.0,
+        "fire_rate": 1091
+    }
+]

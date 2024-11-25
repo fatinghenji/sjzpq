@@ -1,0 +1,17 @@
+{
+    "common": {},
+    "specific": {
+        "Vector冲锋枪": {
+            "枪管": [
+                {
+                    "name": "Vector堡垒重枪管组合",
+                    "attachment_type": "枪管",
+                    "recoil_mod": 6.0,
+                    "handling_mod": 4.0,
+                    "stability_mod": 0.0,
+                    "hip_fire_mod": 8.0
+                }
+            ]
+        }
+    }
+}
